@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">556462894666</string>
+    <string name="google_api_key" translatable="false">AIzaSyBWoYECoOQQrNJxy_fy7zCks7-1AWx0Mzg</string>
+    <string name="google_app_id" translatable="false">1:556462894666:android:e24f23a7a3461eb00dc0b3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBWoYECoOQQrNJxy_fy7zCks7-1AWx0Mzg</string>
+    <string name="google_storage_bucket" translatable="false">kutira-kone-380ff.firebasestorage.app</string>
+    <string name="project_id" translatable="false">kutira-kone-380ff</string>
+</resources>

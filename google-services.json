@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556462894666",
+    "project_id": "kutira-kone-380ff",
+    "storage_bucket": "kutira-kone-380ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556462894666:android:e24f23a7a3461eb00dc0b3",
+        "android_client_info": {
+          "package_name": "com.example.kutirakone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWoYECoOQQrNJxy_fy7zCks7-1AWx0Mzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
